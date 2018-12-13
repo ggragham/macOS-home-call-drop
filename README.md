@@ -26,7 +26,7 @@ bash homecall.sh restore
 If you find something interesting, please open issue and start disccussion. Feel free to fork and pull request. Any update can bring something that aware macOS user would like to disable.
 
 ## Notice
-Be careful with modifying and using this script if you are not aware about what it exactly does. You can break you system very easily and make it non bootable. This script was  developed on macOS Sierra and tested with High Sierra but i believe it will work just fine with previous versions, it just may throw some warnings due to the fact that some services have been added recently. They can be safely ignored.
+Be careful when modifying and using this script if you do not understand exactly what it does. You could break your system very easily and make it unbootable. This script was developed on macOS Sierra and tested on High Sierra but I believe it will work just fine with previous versions, it may throw some warnings due to services that have been added in later versions. They can safely be ignored.
 
 ## License
 GNU General Public License v3.0
